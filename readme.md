@@ -1,7 +1,7 @@
 # Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/omkar342/docker-practice
 ```
 
 # Turn on docker by opening the docker desktop
